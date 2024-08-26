@@ -1,1 +1,1 @@
-Sitemap: https://JobAdds.github.io/YouthTrend/sitemap.xml
+Sitemap: https://JobAdsData.github.io/YouthTrend/sitemap.xml
